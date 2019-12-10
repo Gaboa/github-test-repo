@@ -1,4 +1,4 @@
 # github-test-repo
 
-some new line
+one new line
 line for pull request
